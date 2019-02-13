@@ -1,0 +1,10 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\bin\Debug\netcoreapp2.0\Reversing List Elements.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\bin\Debug\netcoreapp2.0\Reversing List Elements.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\bin\Debug\netcoreapp2.0\Reversing List Elements.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\bin\Debug\netcoreapp2.0\Reversing List Elements.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\bin\Debug\netcoreapp2.0\Reversing List Elements.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\obj\Debug\netcoreapp2.0\Reversing List Elements.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\obj\Debug\netcoreapp2.0\Reversing List Elements.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\obj\Debug\netcoreapp2.0\Reversing List Elements.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\obj\Debug\netcoreapp2.0\Reversing List Elements.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Reversing List Elements\Reversing List Elements\obj\Debug\netcoreapp2.0\Reversing List Elements.pdb

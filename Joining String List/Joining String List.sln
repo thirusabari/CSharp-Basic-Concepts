@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joining String List", "Joining String List\Joining String List.csproj", "{DA44345F-3A09-4943-AAD9-9FDB55E0A0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA44345F-3A09-4943-AAD9-9FDB55E0A0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA44345F-3A09-4943-AAD9-9FDB55E0A0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA44345F-3A09-4943-AAD9-9FDB55E0A0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA44345F-3A09-4943-AAD9-9FDB55E0A0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BCB4FA8-B256-41F6-A69E-7585740760F8}
+	EndGlobalSection
+EndGlobal

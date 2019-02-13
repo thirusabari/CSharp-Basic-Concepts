@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\bin\Debug\netcoreapp2.0\Copies Array to a List.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\bin\Debug\netcoreapp2.0\Copies Array to a List.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\bin\Debug\netcoreapp2.0\Copies Array to a List.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\bin\Debug\netcoreapp2.0\Copies Array to a List.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\bin\Debug\netcoreapp2.0\Copies Array to a List.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\obj\Debug\netcoreapp2.0\Copies Array to a List.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\obj\Debug\netcoreapp2.0\Copies Array to a List.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\obj\Debug\netcoreapp2.0\Copies Array to a List.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\obj\Debug\netcoreapp2.0\Copies Array to a List.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\obj\Debug\netcoreapp2.0\Copies Array to a List.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Copies Array to a List\Copies Array to a List\obj\Debug\netcoreapp2.0\Copies Array to a List.pdb

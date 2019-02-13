@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\bin\Debug\netcoreapp2.0\Indexof in List.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\bin\Debug\netcoreapp2.0\Indexof in List.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\bin\Debug\netcoreapp2.0\Indexof in List.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\bin\Debug\netcoreapp2.0\Indexof in List.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\bin\Debug\netcoreapp2.0\Indexof in List.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\obj\Debug\netcoreapp2.0\Indexof in List.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\obj\Debug\netcoreapp2.0\Indexof in List.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\obj\Debug\netcoreapp2.0\Indexof in List.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\obj\Debug\netcoreapp2.0\Indexof in List.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\obj\Debug\netcoreapp2.0\Indexof in List.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Indexof in List\Indexof in List\obj\Debug\netcoreapp2.0\Indexof in List.pdb

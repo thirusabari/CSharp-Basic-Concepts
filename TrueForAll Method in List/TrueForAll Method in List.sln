@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueForAll Method in List", "TrueForAll Method in List\TrueForAll Method in List.csproj", "{1B6609CC-53C8-4DAB-8468-B01E03AB7C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6609CC-53C8-4DAB-8468-B01E03AB7C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6609CC-53C8-4DAB-8468-B01E03AB7C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6609CC-53C8-4DAB-8468-B01E03AB7C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6609CC-53C8-4DAB-8468-B01E03AB7C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F71E7F3-FE6F-477B-A37A-6E50FD12DE90}
+	EndGlobalSection
+EndGlobal
