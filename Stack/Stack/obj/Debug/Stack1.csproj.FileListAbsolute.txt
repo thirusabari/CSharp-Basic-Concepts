@@ -1,0 +1,5 @@
+E:\Thirunavukkarasu\Tour to C#\Stack\Stack\bin\Debug\Stack.exe.config
+E:\Thirunavukkarasu\Tour to C#\Stack\Stack\bin\Debug\Stack.exe
+E:\Thirunavukkarasu\Tour to C#\Stack\Stack\bin\Debug\Stack.pdb
+E:\Thirunavukkarasu\Tour to C#\Stack\Stack\obj\Debug\Stack.exe
+E:\Thirunavukkarasu\Tour to C#\Stack\Stack\obj\Debug\Stack.pdb

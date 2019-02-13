@@ -1,0 +1,5 @@
+E:\Thirunavukkarasu\C# Practices\Private Access Specifier\Private Access Specifier\bin\Debug\Private Access Specifier.exe.config
+E:\Thirunavukkarasu\C# Practices\Private Access Specifier\Private Access Specifier\bin\Debug\Private Access Specifier.exe
+E:\Thirunavukkarasu\C# Practices\Private Access Specifier\Private Access Specifier\bin\Debug\Private Access Specifier.pdb
+E:\Thirunavukkarasu\C# Practices\Private Access Specifier\Private Access Specifier\obj\Debug\Private Access Specifier.exe
+E:\Thirunavukkarasu\C# Practices\Private Access Specifier\Private Access Specifier\obj\Debug\Private Access Specifier.pdb

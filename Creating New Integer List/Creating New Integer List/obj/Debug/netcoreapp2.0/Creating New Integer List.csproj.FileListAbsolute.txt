@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\bin\Debug\netcoreapp2.0\Creating New Integer List.deps.json
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\bin\Debug\netcoreapp2.0\Creating New Integer List.runtimeconfig.json
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\bin\Debug\netcoreapp2.0\Creating New Integer List.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\bin\Debug\netcoreapp2.0\Creating New Integer List.dll
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\bin\Debug\netcoreapp2.0\Creating New Integer List.pdb
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\obj\Debug\netcoreapp2.0\Creating New Integer List.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\obj\Debug\netcoreapp2.0\Creating New Integer List.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\obj\Debug\netcoreapp2.0\Creating New Integer List.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\obj\Debug\netcoreapp2.0\Creating New Integer List.AssemblyInfo.cs
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\obj\Debug\netcoreapp2.0\Creating New Integer List.dll
+E:\Thirunavukkarasu\C# Practices\Creating New Integer List\Creating New Integer List\obj\Debug\netcoreapp2.0\Creating New Integer List.pdb

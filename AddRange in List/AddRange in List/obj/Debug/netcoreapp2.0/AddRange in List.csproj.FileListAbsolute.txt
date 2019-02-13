@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\bin\Debug\netcoreapp2.0\AddRange in List.deps.json
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\bin\Debug\netcoreapp2.0\AddRange in List.runtimeconfig.json
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\bin\Debug\netcoreapp2.0\AddRange in List.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\bin\Debug\netcoreapp2.0\AddRange in List.dll
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\bin\Debug\netcoreapp2.0\AddRange in List.pdb
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\obj\Debug\netcoreapp2.0\AddRange in List.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\obj\Debug\netcoreapp2.0\AddRange in List.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\obj\Debug\netcoreapp2.0\AddRange in List.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\obj\Debug\netcoreapp2.0\AddRange in List.AssemblyInfo.cs
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\obj\Debug\netcoreapp2.0\AddRange in List.dll
+E:\Thirunavukkarasu\C# Practices\AddRange in List\AddRange in List\obj\Debug\netcoreapp2.0\AddRange in List.pdb

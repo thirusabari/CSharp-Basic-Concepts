@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\bin\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.deps.json
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\bin\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.runtimeconfig.json
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\bin\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\bin\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.dll
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\bin\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.pdb
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\obj\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\obj\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\obj\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\obj\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.AssemblyInfo.cs
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\obj\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.dll
+E:\Thirunavukkarasu\C# Practices\List Manipulation with for and foreach loops\List Manipulation with for and foreach loops\obj\Debug\netcoreapp2.0\List Manipulation with for and foreach loops.pdb

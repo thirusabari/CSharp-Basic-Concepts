@@ -1,0 +1,5 @@
+E:\Thirunavukkarasu\C# Practices\Throwing An Exception\Throwing An Exception\bin\Debug\Throwing An Exception.exe.config
+E:\Thirunavukkarasu\C# Practices\Throwing An Exception\Throwing An Exception\bin\Debug\Throwing An Exception.exe
+E:\Thirunavukkarasu\C# Practices\Throwing An Exception\Throwing An Exception\bin\Debug\Throwing An Exception.pdb
+E:\Thirunavukkarasu\C# Practices\Throwing An Exception\Throwing An Exception\obj\Debug\Throwing An Exception.exe
+E:\Thirunavukkarasu\C# Practices\Throwing An Exception\Throwing An Exception\obj\Debug\Throwing An Exception.pdb

@@ -1,0 +1,6 @@
+E:\Thirunavukkarasu\C# Practices\Interface\Interface\bin\Debug\Interface.exe.config
+E:\Thirunavukkarasu\C# Practices\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C# Practices\Interface\Interface\bin\Debug\Interface.exe
+E:\Thirunavukkarasu\C# Practices\Interface\Interface\bin\Debug\Interface.pdb
+E:\Thirunavukkarasu\C# Practices\Interface\Interface\obj\Debug\Interface.exe
+E:\Thirunavukkarasu\C# Practices\Interface\Interface\obj\Debug\Interface.pdb
