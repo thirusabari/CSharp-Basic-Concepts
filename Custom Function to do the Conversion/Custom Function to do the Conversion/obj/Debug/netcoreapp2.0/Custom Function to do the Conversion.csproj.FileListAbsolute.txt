@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\obj\Debug\netcoreapp2.0\Custom Function to do the Conversion.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\obj\Debug\netcoreapp2.0\Custom Function to do the Conversion.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\obj\Debug\netcoreapp2.0\Custom Function to do the Conversion.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\obj\Debug\netcoreapp2.0\Custom Function to do the Conversion.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\bin\Debug\netcoreapp2.0\Custom Function to do the Conversion.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\bin\Debug\netcoreapp2.0\Custom Function to do the Conversion.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\bin\Debug\netcoreapp2.0\Custom Function to do the Conversion.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\bin\Debug\netcoreapp2.0\Custom Function to do the Conversion.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\bin\Debug\netcoreapp2.0\Custom Function to do the Conversion.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\obj\Debug\netcoreapp2.0\Custom Function to do the Conversion.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\Custom Function to do the Conversion\Custom Function to do the Conversion\obj\Debug\netcoreapp2.0\Custom Function to do the Conversion.pdb

@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\bin\Debug\netcoreapp2.0\List.Exists.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\bin\Debug\netcoreapp2.0\List.Exists.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\bin\Debug\netcoreapp2.0\List.Exists.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\bin\Debug\netcoreapp2.0\List.Exists.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\bin\Debug\netcoreapp2.0\List.Exists.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\obj\Debug\netcoreapp2.0\List.Exists.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\obj\Debug\netcoreapp2.0\List.Exists.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\obj\Debug\netcoreapp2.0\List.Exists.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\obj\Debug\netcoreapp2.0\List.Exists.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\obj\Debug\netcoreapp2.0\List.Exists.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\List.Exists\List.Exists\obj\Debug\netcoreapp2.0\List.Exists.pdb

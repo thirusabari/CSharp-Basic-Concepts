@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\bin\Debug\netcoreapp2.0\list.find.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\bin\Debug\netcoreapp2.0\list.find.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\bin\Debug\netcoreapp2.0\list.find.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\bin\Debug\netcoreapp2.0\list.find.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\bin\Debug\netcoreapp2.0\list.find.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\obj\Debug\netcoreapp2.0\list.find.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\obj\Debug\netcoreapp2.0\list.find.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\obj\Debug\netcoreapp2.0\list.find.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\obj\Debug\netcoreapp2.0\list.find.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\obj\Debug\netcoreapp2.0\list.find.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.find\list.find\obj\Debug\netcoreapp2.0\list.find.pdb

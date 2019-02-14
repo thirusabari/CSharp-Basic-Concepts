@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\bin\Debug\netcoreapp2.0\list.Contains.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\bin\Debug\netcoreapp2.0\list.Contains.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\bin\Debug\netcoreapp2.0\list.Contains.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\bin\Debug\netcoreapp2.0\list.Contains.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\bin\Debug\netcoreapp2.0\list.Contains.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\obj\Debug\netcoreapp2.0\list.Contains.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\obj\Debug\netcoreapp2.0\list.Contains.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\obj\Debug\netcoreapp2.0\list.Contains.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\obj\Debug\netcoreapp2.0\list.Contains.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\obj\Debug\netcoreapp2.0\list.Contains.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Contains\list.Contains\obj\Debug\netcoreapp2.0\list.Contains.pdb

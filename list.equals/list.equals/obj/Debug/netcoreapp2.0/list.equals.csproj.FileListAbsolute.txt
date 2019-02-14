@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\bin\Debug\netcoreapp2.0\list.equals.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\bin\Debug\netcoreapp2.0\list.equals.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\bin\Debug\netcoreapp2.0\list.equals.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\bin\Debug\netcoreapp2.0\list.equals.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\bin\Debug\netcoreapp2.0\list.equals.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\obj\Debug\netcoreapp2.0\list.equals.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\obj\Debug\netcoreapp2.0\list.equals.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\obj\Debug\netcoreapp2.0\list.equals.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\obj\Debug\netcoreapp2.0\list.equals.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\obj\Debug\netcoreapp2.0\list.equals.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.equals\list.equals\obj\Debug\netcoreapp2.0\list.equals.pdb

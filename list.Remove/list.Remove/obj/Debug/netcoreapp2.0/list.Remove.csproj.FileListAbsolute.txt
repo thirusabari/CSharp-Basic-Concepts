@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\bin\Debug\netcoreapp2.0\list.Remove.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\bin\Debug\netcoreapp2.0\list.Remove.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\bin\Debug\netcoreapp2.0\list.Remove.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\bin\Debug\netcoreapp2.0\list.Remove.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\bin\Debug\netcoreapp2.0\list.Remove.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\obj\Debug\netcoreapp2.0\list.Remove.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\obj\Debug\netcoreapp2.0\list.Remove.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\obj\Debug\netcoreapp2.0\list.Remove.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\obj\Debug\netcoreapp2.0\list.Remove.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\obj\Debug\netcoreapp2.0\list.Remove.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.Remove\list.Remove\obj\Debug\netcoreapp2.0\list.Remove.pdb

@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\bin\Debug\netcoreapp2.0\list.ConvertAll.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\bin\Debug\netcoreapp2.0\list.ConvertAll.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\bin\Debug\netcoreapp2.0\list.ConvertAll.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\bin\Debug\netcoreapp2.0\list.ConvertAll.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\bin\Debug\netcoreapp2.0\list.ConvertAll.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\obj\Debug\netcoreapp2.0\list.ConvertAll.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\obj\Debug\netcoreapp2.0\list.ConvertAll.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\obj\Debug\netcoreapp2.0\list.ConvertAll.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\obj\Debug\netcoreapp2.0\list.ConvertAll.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\obj\Debug\netcoreapp2.0\list.ConvertAll.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ConvertAll\list.ConvertAll\obj\Debug\netcoreapp2.0\list.ConvertAll.pdb

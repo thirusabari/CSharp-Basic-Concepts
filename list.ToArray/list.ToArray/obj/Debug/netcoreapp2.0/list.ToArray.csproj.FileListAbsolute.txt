@@ -1,0 +1,11 @@
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\bin\Debug\netcoreapp2.0\list.ToArray.deps.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\bin\Debug\netcoreapp2.0\list.ToArray.runtimeconfig.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\bin\Debug\netcoreapp2.0\list.ToArray.runtimeconfig.dev.json
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\bin\Debug\netcoreapp2.0\list.ToArray.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\bin\Debug\netcoreapp2.0\list.ToArray.pdb
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\obj\Debug\netcoreapp2.0\list.ToArray.csprojResolveAssemblyReference.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\obj\Debug\netcoreapp2.0\list.ToArray.csproj.CoreCompileInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\obj\Debug\netcoreapp2.0\list.ToArray.AssemblyInfoInputs.cache
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\obj\Debug\netcoreapp2.0\list.ToArray.AssemblyInfo.cs
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\obj\Debug\netcoreapp2.0\list.ToArray.dll
+E:\Thirunavukkarasu\C-Sharp-Basic-Concepts\list.ToArray\list.ToArray\obj\Debug\netcoreapp2.0\list.ToArray.pdb
