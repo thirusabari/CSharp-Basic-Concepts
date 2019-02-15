@@ -1,0 +1,11 @@
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\bin\Debug\netcoreapp2.0\Adding Items into the Dictionary.deps.json
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\bin\Debug\netcoreapp2.0\Adding Items into the Dictionary.runtimeconfig.json
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\bin\Debug\netcoreapp2.0\Adding Items into the Dictionary.runtimeconfig.dev.json
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\bin\Debug\netcoreapp2.0\Adding Items into the Dictionary.dll
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\bin\Debug\netcoreapp2.0\Adding Items into the Dictionary.pdb
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\obj\Debug\netcoreapp2.0\Adding Items into the Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\obj\Debug\netcoreapp2.0\Adding Items into the Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\obj\Debug\netcoreapp2.0\Adding Items into the Dictionary.AssemblyInfoInputs.cache
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\obj\Debug\netcoreapp2.0\Adding Items into the Dictionary.AssemblyInfo.cs
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\obj\Debug\netcoreapp2.0\Adding Items into the Dictionary.dll
+C:\Users\haris\source\repos\Adding Items into the Dictionary\Adding Items into the Dictionary\obj\Debug\netcoreapp2.0\Adding Items into the Dictionary.pdb
